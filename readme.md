@@ -13,7 +13,7 @@
 
     > git status
 - Távoli repo létrehozása (a GitHub oldalon):
-- Összekapcsoljuk a távoli repot a helyivel:
+- Összekapcsoljuk a távoli repot a helyivel:(legelső alkalommal)
     > git remote add origin https://token@github.com/Pedro9719/Test.git
 - Kiválasztjuk az ágat (Brenchet) a távoli repoban:
     > git push -u origin master (ezt csak legelső alkallomal kell)
